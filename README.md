@@ -123,3 +123,7 @@ enum LoadingState<T> {
 ## Third-Party Libraries
 
 This project does not use any third-party libraries to demonstrate pure Swift and SwiftUI implementation with native concurrency features.
+
+## Video demonstration
+
+https://youtube.com/shorts/4Q5iw5oTbsQ?feature=share

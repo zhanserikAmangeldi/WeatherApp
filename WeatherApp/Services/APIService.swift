@@ -5,7 +5,7 @@ class APIService {
     
     private let baseURL = "https://api.openweathermap.org/data/2.5"
     private let geoURL = "https://api.openweathermap.org/geo/1.0"
-    private let apiKey = "" // SUDA SVOI API
+    private let apiKey = "" // Add your API key here
     
     private let jsonDecoder: JSONDecoder
     
